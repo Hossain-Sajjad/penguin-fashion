@@ -1,0 +1,25 @@
+p{
+    font-weight: 400;
+}
+.top-heading{
+    font-size: 3rem;
+}
+.golden-heilighted{
+    color: #FABC46;
+}
+.bg-color-section{
+    background-color: #FFFBF0 !important; 
+}
+.buttom-color{
+    background-color: #A4BC46 !important;
+}
+.img-style{
+    width: 60%;
+}
+.card-img{
+    background-color: #F1F1F1 !important;
+}
+.card-border{
+    border: 1px solid white !important;
+    border-radius: 25px;
+}
